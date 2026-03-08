@@ -1,5 +1,5 @@
 # personal portfolio
-built with Next.js and Tailwind CSS. Deployed using Vercel. Check it out at [elizabeth-ling.com](www.elizabeth-ling.com) 
+built with Next.js and Tailwind CSS. Deployed using Vercel. Check it out at [elizabeth-ling.com](https://elizabeth-ling.com/) 
 
 ## Getting Started
 
